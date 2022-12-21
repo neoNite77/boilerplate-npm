@@ -1,5 +1,7 @@
 {
 	"author": "Abraham Ungos",
+	"description": "Free Code Camp Back End Certification",
+	"keywords": ["freecodecamp", "backend"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
