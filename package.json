@@ -2,9 +2,13 @@
 	"author": "Abraham Ungos",
 	"description": "Free Code Camp Back End Certification",
 	"keywords": ["freecodecamp", "backend"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
+
 	},
 	"main": "server.js",
 	"scripts": {
